@@ -1,0 +1,36 @@
+a {
+    text-decoration: none;
+    color: #222222;
+}
+a:hover {
+    text-decoration: underline;
+    color: #FF1111;
+}
+nav {
+    background-color: #4488BB;
+    width: 620px;
+    height:30px;
+}
+nav ul {
+    list-style-type:none;
+    text-transform: uppercase;
+}
+nav ul li {
+    float: left;
+}
+nav ul li a {
+    font-size: 20px;
+    background-color: #CCC;
+    width: 100px;
+
+    display: block;
+    text-align: : center;
+    padding: 4px;
+    color: #FFF;
+}
+nav ul li a:hover {
+    background-color: #FFF;
+    color: #FF1111;
+    text-shadow: 1px 1px 2px #CCC;
+
+}

@@ -1,0 +1,39 @@
+*{
+    font-family: Arial;
+    background-color: silver;
+}
+h1{
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+}
+h2{
+    color: rgb(217, 2, 255);
+    font-size: 24px;
+    
+}
+.capital{
+    color: green;
+}
+p{
+    background-color: rgb(5, 157, 251);
+    padding: 10px;
+    color: lightgray;
+    font-size: 18px;
+}
+.bemvindo{
+    background-color: lightblue;
+    color: #272727;
+}
+hr{
+    border: 2px solid black;
+}
+li{
+    color: rgb(217, 2, 255);
+    font-size: 20px;
+}
+a{
+    color: rgb(229, 1, 1);
+    font-size: 18px;
+    text-decoration: none;
+}

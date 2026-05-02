@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #BB2222;
+    font-size: 32px;
+
+}
+h2 {
+    color: #2222CC;
+    font-size: 26px;
+}
+h3 {
+    color: #2222CC;
+    font-size: 26px;
+}
+
+header {
+        background-color: #FFCC22;
+        width: 900px;
+        height: 120px;
+}
+main {
+    background-color: #FFF;
+    width: 550px;
+    height: 400px;
+    float: right;
+}
+aside {
+    background-color: #CCF1BB;
+    width: 350px;
+    height: 400px;
+    float: left;
+}
+footer {
+    background-color: #FFCC22;
+    width: 900px;
+    height: 40px;
+    clear: both;
+}
+
+#tudo{
+    width: 900px;
+    border: 1px solid #555;
+    margin: auto;
+}
